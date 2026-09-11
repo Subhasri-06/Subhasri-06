@@ -6,13 +6,13 @@
 
 📍 Tamil Nadu, India
 
-💼 Open to Data Analyst, Python Developer, and AI-related Opportunities
+💼 Open to Data Analyst, C++, Python Developer, and AI-related Opportunities
 
 ---
 
 ## About Me
 
-I am passionate about Data Analytics, Process Automation, and Artificial Intelligence. I enjoy transforming raw data into meaningful insights, automating repetitive tasks, and building intelligent solutions using modern technologies. Currently enhancing my skills in Data Analytics, AI Applications, and Japanese language learning.
+I am passionate about Data Analytics, Process Automation, and Artificial Intelligence. I enjoy transforming raw data into meaningful insights, automating repetitive tasks, and building intelligent solutions using modern technologies. Currently enhancing my skills in Data Analytics, C++, AI Applications, and Japanese language learning.
 
 ---
 
@@ -74,6 +74,7 @@ Built an AI-powered legal assistant using RAG, FAISS, DPR, and Legal-BERT to imp
 
 ## Currently Learning
 
+* C++
 * Advanced Data Analytics
 * Artificial Intelligence
 * Japanese Language
