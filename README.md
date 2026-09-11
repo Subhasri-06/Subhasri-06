@@ -22,7 +22,7 @@ I am passionate about Data Analytics, Process Automation, and Artificial Intelli
 
 * Python
 * SQL
-* C
+* C++
 
 ### Data Analytics
 
